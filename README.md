@@ -37,8 +37,10 @@
 
 ### My project:
 
-- [Anime search app.](https://yes-to-plants.netlify.app/) [github](https://github.com/annkainova/rs-react)
-- [E-commerse Plants Shop]([https://yes-to-plants.netlify.app/](https://anime-search-rs.netlify.app)) [github]([https://github.com/annkainova/rs-react](https://github.com/D4n1el13and37/e-commerce-app))
+- [Anime search app.](https://yes-to-plants.netlify.app/)
+   - [github](https://github.com/annkainova/rs-react)
+- [E-commerse Plants Shop]([https://yes-to-plants.netlify.app/](https://anime-search-rs.netlify.app)) 
+   - [github]([https://github.com/annkainova/rs-react](https://github.com/D4n1el13and37/e-commerce-app))
 - [Nonograms Game](https://rolling-scopes-school.github.io/annkainova-JSFE2023Q4/nonograms/index.html)
 - [Coffe House](https://rolling-scopes-school.github.io/annkainova-JSFE2023Q4/coffee-house/index.html)
 
